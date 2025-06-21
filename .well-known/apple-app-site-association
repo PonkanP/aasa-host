@@ -1,0 +1,11 @@
+
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": "L836F747BC.jp.co.amada.mobilehmi.release",
+             "paths": [ "*" ]
+            }
+       ]
+   }
+}
